@@ -1,0 +1,295 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\ReqnrollProject1\\TestRunner.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\Business_Logic_PageObjects\\Business_Logic_PageObjects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\Business_Logic_PageObjects\\Business_Logic_PageObjects.csproj",
+        "projectName": "Business_Logic_PageObjects",
+        "projectPath": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\Business_Logic_PageObjects\\Business_Logic_PageObjects.csproj",
+        "packagesPath": "C:\\Users\\Sairam_Ganisetti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\Business_Logic_PageObjects\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sairam_Ganisetti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\Selenium_Framework_Layer\\Selenium_Framework_Layer.csproj": {
+                "projectPath": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\Selenium_Framework_Layer\\Selenium_Framework_Layer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "DotNetSeleniumExtras.WaitHelpers": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.23.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.23.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[128.0.6613.8400, )"
+            },
+            "Selenium.WebDriver.GeckoDriver": {
+              "target": "Package",
+              "version": "[0.35.0, )"
+            },
+            "Selenium.WebDriver.IEDriver": {
+              "target": "Package",
+              "version": "[4.14.0, )"
+            },
+            "SeleniumExtras.WaitHelpers": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\ReqnrollProject1\\TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\ReqnrollProject1\\TestRunner.csproj",
+        "projectName": "TestRunner",
+        "projectPath": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\ReqnrollProject1\\TestRunner.csproj",
+        "packagesPath": "C:\\Users\\Sairam_Ganisetti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\ReqnrollProject1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sairam_Ganisetti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\Business_Logic_PageObjects\\Business_Logic_PageObjects.csproj": {
+                "projectPath": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\Business_Logic_PageObjects\\Business_Logic_PageObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "ExtentReports.Core": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.12.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.10.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Reqnroll.NUnit": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\Selenium_Framework_Layer\\Selenium_Framework_Layer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\Selenium_Framework_Layer\\Selenium_Framework_Layer.csproj",
+        "projectName": "Selenium_Framework_Layer",
+        "projectPath": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\Selenium_Framework_Layer\\Selenium_Framework_Layer.csproj",
+        "packagesPath": "C:\\Users\\Sairam_Ganisetti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\Selenium_Framework_Layer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sairam_Ganisetti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoItX.Dotnet": {
+              "target": "Package",
+              "version": "[3.3.14.5, )"
+            },
+            "AutoItX3.Net": {
+              "target": "Package",
+              "version": "[3.3.16.1, )"
+            },
+            "DotNetSeleniumExtras.PageObjects": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "DotNetSeleniumExtras.WaitHelpers": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.23.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.23.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[128.0.6613.8400, )"
+            },
+            "Selenium.WebDriver.IEDriver": {
+              "target": "Package",
+              "version": "[4.14.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

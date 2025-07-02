@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95C21477-9C96-4D5C-B672-59194E0E74E6}|ReqnrollProject1\\TestRunner.csproj|c:\\users\\sairam_ganisetti\\source\\repos\\myntra_automation_practice\\reqnrollproject1\\hooks\\hooks1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C21477-9C96-4D5C-B672-59194E0E74E6}|ReqnrollProject1\\TestRunner.csproj|solutionrelative:reqnrollproject1\\hooks\\hooks1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E3BF41-B4F9-4EC1-94A7-03B843197C80}|Selenium_Framework_Layer\\Selenium_Framework_Layer.csproj|c:\\users\\sairam_ganisetti\\source\\repos\\myntra_automation_practice\\selenium_framework_layer\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E3BF41-B4F9-4EC1-94A7-03B843197C80}|Selenium_Framework_Layer\\Selenium_Framework_Layer.csproj|solutionrelative:selenium_framework_layer\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E5B63D-5C0C-42E0-91AB-3B58E7651283}|Business_Logic_PageObjects\\Business_Logic_PageObjects.csproj|c:\\users\\sairam_ganisetti\\source\\repos\\myntra_automation_practice\\business_logic_pageobjects\\pageobjects\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E5B63D-5C0C-42E0-91AB-3B58E7651283}|Business_Logic_PageObjects\\Business_Logic_PageObjects.csproj|solutionrelative:business_logic_pageobjects\\pageobjects\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C21477-9C96-4D5C-B672-59194E0E74E6}|ReqnrollProject1\\TestRunner.csproj|c:\\users\\sairam_ganisetti\\source\\repos\\myntra_automation_practice\\reqnrollproject1\\features\\ajio.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{95C21477-9C96-4D5C-B672-59194E0E74E6}|ReqnrollProject1\\TestRunner.csproj|solutionrelative:reqnrollproject1\\features\\ajio.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C21477-9C96-4D5C-B672-59194E0E74E6}|ReqnrollProject1\\TestRunner.csproj|c:\\users\\sairam_ganisetti\\source\\repos\\myntra_automation_practice\\reqnrollproject1\\stepdefinitions\\feature1stepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C21477-9C96-4D5C-B672-59194E0E74E6}|ReqnrollProject1\\TestRunner.csproj|solutionrelative:reqnrollproject1\\stepdefinitions\\feature1stepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C21477-9C96-4D5C-B672-59194E0E74E6}|ReqnrollProject1\\TestRunner.csproj|c:\\users\\sairam_ganisetti\\source\\repos\\myntra_automation_practice\\reqnrollproject1\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C21477-9C96-4D5C-B672-59194E0E74E6}|ReqnrollProject1\\TestRunner.csproj|solutionrelative:reqnrollproject1\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C21477-9C96-4D5C-B672-59194E0E74E6}|ReqnrollProject1\\TestRunner.csproj|c:\\users\\sairam_ganisetti\\source\\repos\\myntra_automation_practice\\reqnrollproject1\\support\\basedriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C21477-9C96-4D5C-B672-59194E0E74E6}|ReqnrollProject1\\TestRunner.csproj|solutionrelative:reqnrollproject1\\support\\basedriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C21477-9C96-4D5C-B672-59194E0E74E6}|ReqnrollProject1\\TestRunner.csproj|c:\\users\\sairam_ganisetti\\source\\repos\\myntra_automation_practice\\reqnrollproject1\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{95C21477-9C96-4D5C-B672-59194E0E74E6}|ReqnrollProject1\\TestRunner.csproj|solutionrelative:reqnrollproject1\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C21477-9C96-4D5C-B672-59194E0E74E6}|ReqnrollProject1\\TestRunner.csproj|c:\\users\\sairam_ganisetti\\source\\repos\\myntra_automation_practice\\reqnrollproject1\\support\\urlandbrowser.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95C21477-9C96-4D5C-B672-59194E0E74E6}|ReqnrollProject1\\TestRunner.csproj|solutionrelative:reqnrollproject1\\support\\urlandbrowser.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C21477-9C96-4D5C-B672-59194E0E74E6}|ReqnrollProject1\\TestRunner.csproj|c:\\users\\sairam_ganisetti\\source\\repos\\myntra_automation_practice\\reqnrollproject1\\testrunner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95C21477-9C96-4D5C-B672-59194E0E74E6}|ReqnrollProject1\\TestRunner.csproj|solutionrelative:reqnrollproject1\\testrunner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C21477-9C96-4D5C-B672-59194E0E74E6}|ReqnrollProject1\\TestRunner.csproj|c:\\users\\sairam_ganisetti\\source\\repos\\myntra_automation_practice\\reqnrollproject1\\support\\browserandurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C21477-9C96-4D5C-B672-59194E0E74E6}|ReqnrollProject1\\TestRunner.csproj|solutionrelative:reqnrollproject1\\support\\browserandurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E5B63D-5C0C-42E0-91AB-3B58E7651283}|Business_Logic_PageObjects\\Business_Logic_PageObjects.csproj|c:\\users\\sairam_ganisetti\\source\\repos\\myntra_automation_practice\\business_logic_pageobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E5B63D-5C0C-42E0-91AB-3B58E7651283}|Business_Logic_PageObjects\\Business_Logic_PageObjects.csproj|solutionrelative:business_logic_pageobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 528,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Feature1StepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\ReqnrollProject1\\StepDefinitions\\Feature1StepDefinitions.cs",
+              "RelativeDocumentMoniker": "ReqnrollProject1\\StepDefinitions\\Feature1StepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\ReqnrollProject1\\StepDefinitions\\Feature1StepDefinitions.cs",
+              "RelativeToolTip": "ReqnrollProject1\\StepDefinitions\\Feature1StepDefinitions.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAuwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T04:45:35.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\Business_Logic_PageObjects\\PageObjects\\HomePage.cs",
+              "RelativeDocumentMoniker": "Business_Logic_PageObjects\\PageObjects\\HomePage.cs",
+              "ToolTip": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\Business_Logic_PageObjects\\PageObjects\\HomePage.cs",
+              "RelativeToolTip": "Business_Logic_PageObjects\\PageObjects\\HomePage.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAA+wFAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T05:37:15.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hooks1.cs",
+              "DocumentMoniker": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\ReqnrollProject1\\Hooks\\Hooks1.cs",
+              "RelativeDocumentMoniker": "ReqnrollProject1\\Hooks\\Hooks1.cs",
+              "ToolTip": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\ReqnrollProject1\\Hooks\\Hooks1.cs",
+              "RelativeToolTip": "ReqnrollProject1\\Hooks\\Hooks1.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAB8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T16:18:05.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalculatorStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\ReqnrollProject1\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "RelativeDocumentMoniker": "ReqnrollProject1\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\ReqnrollProject1\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "RelativeToolTip": "ReqnrollProject1\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T05:05:06.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AJIO.feature",
+              "DocumentMoniker": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\ReqnrollProject1\\Features\\AJIO.feature",
+              "RelativeDocumentMoniker": "ReqnrollProject1\\Features\\AJIO.feature",
+              "ToolTip": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\ReqnrollProject1\\Features\\AJIO.feature",
+              "RelativeToolTip": "ReqnrollProject1\\Features\\AJIO.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASFSURBVEhLjVVpbBVVFP7m7X1btS1dnqR00TZCKIhtA9WiQIiJBn9hfxRNEzEk9AclscQN40LSmNQuRiL\u002BEJSECDH6g5hgiRKLNi2WlAIPlEZrq3R7tLWvy\u002BvbZ/zuvOlbsDX9Jt/MOefOPefOOefekbAanHMBStRKyUIqkOCHzRrAniF1eEUoirJygCqLDmXGfFRbK6FDFS2FZDopk9PkEGSlBz8FrsIdHkW3X6HtP1g\u002BwPvkwzk1HH2F0kYykzSQSxDOwuQU2UetFbWey2LgfqQGeIDqRw85YAo3Uns7ZlwVFF51\u002BHzuK3zvD2k2FXrtGcONNDPuGespNZA2YbIbbNiRXQ2DpMdMyAurPg3Va7YiNy0bI4tj4hUBidcmbDYPwysPYCiimcHsJqPP\u002BRjvIkCWqhPP5O7AycoWvLm\u002BAWvMmdiSUYbj5U04VdHOySnT88l6vOzIiakxJN44km7iKo5TKiAlMVlc3vA8MkwPYltmOdbaXKjKqkCJvQjz4QVWW9Q7DgPn74ROegnWROYTKapKq4bL8BolSaThxYIX8IizCDe9v2I\u002B4oMv6kPHRKeaKovejGO/teEv393Y3ASE51IUGD9DV0CtRSxUmVmHQ\u002BnvwiYdFerWzMdxYfuXCMthdE52Y3/vq6yFFVPBaZjp3Gmw415oClE5qk6/Dwr6gk/hQ2\u002BXUGIpskt2Oi9SZeLGzG2cH\u002BuAh05K\u002BRUl9kJMBDyIKBH4\u002BDXjlFdwLiAWvSkmJmpgIsUuVeGXA6jvex0HehtRd\u002BUwrntvaSOpEEV3Gh2aloJ4k2gBFLGceG\u002BJnjtYXIejGxrw1vpDyEtLaQwV\u002Bwv34ey2E2o37crdrlnjiFc5FkCSFnkX21/Fk1mVaNr4Bnay/wvt\u002BVhgWsRKdewtg2SAjfUYXvwbJY5iPOvahS8q27WZcYxqT62LFESxwZwHp\u002B55oQYiIRh1Rlye7EHrwKdqi\u002B4r2IuB\u002BUEU2wtwuOQA\u002BmfcuOT5GXcXx3F\u002B9CKuzdxUXakYjzahO6AGSTTskXQXtlgGKZmFatFZGFdGriUHv\u002By\u002BgIAcRG3PQRQxwMmKFtblNp74YQ/0bNsoMywaQMM4rvmL0TwXEEpiozXPjjHcMUp\u002BoQZY6KAcosN8mPg1d\u002BYGMe734M\u002BFYQyx/9dZ1yLTnMF3gsnO6VRpWnIukHoW7XX8wfujpGhZdWw6OKO25bdjF\u002BGevaPqvy8M4buJS\u002Bj/x62echq4rXl8S/gAX/vmNFtSigSy\u002BEEf8yQDPiE3qzZCFJf/jrgzHacJKcm5AI9upRFZU2ewW46fIalfsMgJ3/hGYJa6UGpaR0sGaaajRCqJFLcx8CyR29E2ewrNkaBmU5EaYAnu0CRqHT\u002Byt8RhI/aIkxS/zJRAhIjlIU\u002BgzduO66F4apaQmqJkmDn0nFNCjdUJRS6jpYUsV8cSmCDfY5jT/KPFC5uMlQMk45wrj0HOcMFPU/ORI\u002BQV9Ida0Rm8hV6xT5fH6gKczRVnyzsMkM3nVTZMN04vuNHhn1fH/werDSBynw693o\u002Ba0WVTsTyAfwENCYeqQkKfxQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-26T04:19:15.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\Selenium_Framework_Layer\\Helpers\\Helper.cs",
+              "RelativeDocumentMoniker": "Selenium_Framework_Layer\\Helpers\\Helper.cs",
+              "ToolTip": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\Selenium_Framework_Layer\\Helpers\\Helper.cs",
+              "RelativeToolTip": "Selenium_Framework_Layer\\Helpers\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T15:34:44.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseDriver.cs",
+              "DocumentMoniker": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\ReqnrollProject1\\Support\\BaseDriver.cs",
+              "RelativeDocumentMoniker": "ReqnrollProject1\\Support\\BaseDriver.cs",
+              "ToolTip": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\ReqnrollProject1\\Support\\BaseDriver.cs",
+              "RelativeToolTip": "ReqnrollProject1\\Support\\BaseDriver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:36:01.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Calculator.feature",
+              "DocumentMoniker": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\ReqnrollProject1\\Features\\Calculator.feature",
+              "RelativeDocumentMoniker": "ReqnrollProject1\\Features\\Calculator.feature",
+              "ToolTip": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\ReqnrollProject1\\Features\\Calculator.feature",
+              "RelativeToolTip": "ReqnrollProject1\\Features\\Calculator.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASFSURBVEhLjVVpbBVVFP7m7X1btS1dnqR00TZCKIhtA9WiQIiJBn9hfxRNEzEk9AclscQN40LSmNQuRiL\u002BEJSECDH6g5hgiRKLNi2WlAIPlEZrq3R7tLWvy\u002BvbZ/zuvOlbsDX9Jt/MOefOPefOOefekbAanHMBStRKyUIqkOCHzRrAniF1eEUoirJygCqLDmXGfFRbK6FDFS2FZDopk9PkEGSlBz8FrsIdHkW3X6HtP1g\u002BwPvkwzk1HH2F0kYykzSQSxDOwuQU2UetFbWey2LgfqQGeIDqRw85YAo3Uns7ZlwVFF51\u002BHzuK3zvD2k2FXrtGcONNDPuGespNZA2YbIbbNiRXQ2DpMdMyAurPg3Va7YiNy0bI4tj4hUBidcmbDYPwysPYCiimcHsJqPP\u002BRjvIkCWqhPP5O7AycoWvLm\u002BAWvMmdiSUYbj5U04VdHOySnT88l6vOzIiakxJN44km7iKo5TKiAlMVlc3vA8MkwPYltmOdbaXKjKqkCJvQjz4QVWW9Q7DgPn74ROegnWROYTKapKq4bL8BolSaThxYIX8IizCDe9v2I\u002B4oMv6kPHRKeaKovejGO/teEv393Y3ASE51IUGD9DV0CtRSxUmVmHQ\u002BnvwiYdFerWzMdxYfuXCMthdE52Y3/vq6yFFVPBaZjp3Gmw415oClE5qk6/Dwr6gk/hQ2\u002BXUGIpskt2Oi9SZeLGzG2cH\u002BuAh05K\u002BRUl9kJMBDyIKBH4\u002BDXjlFdwLiAWvSkmJmpgIsUuVeGXA6jvex0HehtRd\u002BUwrntvaSOpEEV3Gh2aloJ4k2gBFLGceG\u002BJnjtYXIejGxrw1vpDyEtLaQwV\u002Bwv34ey2E2o37crdrlnjiFc5FkCSFnkX21/Fk1mVaNr4Bnay/wvt\u002BVhgWsRKdewtg2SAjfUYXvwbJY5iPOvahS8q27WZcYxqT62LFESxwZwHp\u002B55oQYiIRh1Rlye7EHrwKdqi\u002B4r2IuB\u002BUEU2wtwuOQA\u002BmfcuOT5GXcXx3F\u002B9CKuzdxUXakYjzahO6AGSTTskXQXtlgGKZmFatFZGFdGriUHv\u002By\u002BgIAcRG3PQRQxwMmKFtblNp74YQ/0bNsoMywaQMM4rvmL0TwXEEpiozXPjjHcMUp\u002BoQZY6KAcosN8mPg1d\u002BYGMe734M\u002BFYQyx/9dZ1yLTnMF3gsnO6VRpWnIukHoW7XX8wfujpGhZdWw6OKO25bdjF\u002BGevaPqvy8M4buJS\u002Bj/x62echq4rXl8S/gAX/vmNFtSigSy\u002BEEf8yQDPiE3qzZCFJf/jrgzHacJKcm5AI9upRFZU2ewW46fIalfsMgJ3/hGYJa6UGpaR0sGaaajRCqJFLcx8CyR29E2ewrNkaBmU5EaYAnu0CRqHT\u002Byt8RhI/aIkxS/zJRAhIjlIU\u002BgzduO66F4apaQmqJkmDn0nFNCjdUJRS6jpYUsV8cSmCDfY5jT/KPFC5uMlQMk45wrj0HOcMFPU/ORI\u002BQV9Ida0Rm8hV6xT5fH6gKczRVnyzsMkM3nVTZMN04vuNHhn1fH/werDSBynw693o\u002Ba0WVTsTyAfwENCYeqQkKfxQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-24T16:59:49.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BrowserandUrl.cs",
+              "DocumentMoniker": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\ReqnrollProject1\\Support\\BrowserandUrl.cs",
+              "RelativeDocumentMoniker": "ReqnrollProject1\\Support\\BrowserandUrl.cs",
+              "ToolTip": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\ReqnrollProject1\\Support\\BrowserandUrl.cs",
+              "RelativeToolTip": "ReqnrollProject1\\Support\\BrowserandUrl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T16:36:58.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestRunner.csproj",
+              "DocumentMoniker": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\ReqnrollProject1\\TestRunner.csproj",
+              "RelativeDocumentMoniker": "ReqnrollProject1\\TestRunner.csproj",
+              "ToolTip": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\ReqnrollProject1\\TestRunner.csproj",
+              "RelativeToolTip": "ReqnrollProject1\\TestRunner.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-24T16:20:55.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UrlAndBrowser.json",
+              "DocumentMoniker": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\ReqnrollProject1\\Support\\UrlAndBrowser.json",
+              "RelativeDocumentMoniker": "ReqnrollProject1\\Support\\UrlAndBrowser.json",
+              "ToolTip": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\ReqnrollProject1\\Support\\UrlAndBrowser.json",
+              "RelativeToolTip": "ReqnrollProject1\\Support\\UrlAndBrowser.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T16:30:04.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "program.cs",
+              "DocumentMoniker": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\Business_Logic_PageObjects\\program.cs",
+              "RelativeDocumentMoniker": "Business_Logic_PageObjects\\program.cs",
+              "ToolTip": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Myntra_Automation_Practice\\Business_Logic_PageObjects\\program.cs",
+              "RelativeToolTip": "Business_Logic_PageObjects\\program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T16:03:43.255Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
