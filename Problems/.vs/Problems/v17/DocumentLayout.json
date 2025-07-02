@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|c:\\users\\sairam_ganisetti\\source\\repos\\problems\\problems\\dicyionarys\\romantointeger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|solutionrelative:problems\\dicyionarys\\romantointeger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|c:\\users\\sairam_ganisetti\\source\\repos\\problems\\problems\\dicyionarys\\inttoroman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|solutionrelative:problems\\dicyionarys\\inttoroman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|c:\\users\\sairam_ganisetti\\source\\repos\\problems\\problems\\strings\\anagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|solutionrelative:problems\\strings\\anagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|c:\\users\\sairam_ganisetti\\source\\repos\\problems\\problems\\strings\\countnmberofoccurencesofawordinastring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|solutionrelative:problems\\strings\\countnmberofoccurencesofawordinastring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|c:\\users\\sairam_ganisetti\\source\\repos\\problems\\problems\\strings\\printromans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|solutionrelative:problems\\strings\\printromans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|c:\\users\\sairam_ganisetti\\source\\repos\\problems\\problems\\programs\\primenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|solutionrelative:problems\\programs\\primenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|c:\\users\\sairam_ganisetti\\source\\repos\\problems\\problems\\strings\\removespecialcharactersfromstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|solutionrelative:problems\\strings\\removespecialcharactersfromstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|c:\\users\\sairam_ganisetti\\source\\repos\\problems\\problems\\strings\\countsumofadigitsinstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|solutionrelative:problems\\strings\\countsumofadigitsinstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|c:\\users\\sairam_ganisetti\\source\\repos\\problems\\problems\\strings\\countoccuranceofacharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|solutionrelative:problems\\strings\\countoccuranceofacharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|c:\\users\\sairam_ganisetti\\source\\repos\\problems\\problems\\strings\\countnumberofoccurancesofacharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|solutionrelative:problems\\strings\\countnumberofoccurancesofacharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|c:\\users\\sairam_ganisetti\\source\\repos\\problems\\problems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|solutionrelative:problems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|c:\\users\\sairam_ganisetti\\source\\repos\\problems\\problems\\twopointer\\reversearraywithtwopointer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|solutionrelative:problems\\twopointer\\reversearraywithtwopointer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|c:\\users\\sairam_ganisetti\\source\\repos\\problems\\problems\\sliding_twopointer_technique\\slidingwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|solutionrelative:problems\\sliding_twopointer_technique\\slidingwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|c:\\users\\sairam_ganisetti\\source\\repos\\problems\\problems\\strings\\seriescharactercount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|solutionrelative:problems\\strings\\seriescharactercount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|c:\\users\\sairam_ganisetti\\source\\repos\\problems\\problems\\arrays\\sortarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|solutionrelative:problems\\arrays\\sortarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|c:\\users\\sairam_ganisetti\\source\\repos\\problems\\problems\\dicyionarys\\dict1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|solutionrelative:problems\\dicyionarys\\dict1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|c:\\users\\sairam_ganisetti\\source\\repos\\problems\\problems\\strings\\reversestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A99379-EC72-4A76-BC62-C9E50A8ADDCE}|Problems\\Problems.csproj|solutionrelative:problems\\strings\\reversestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 528,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RomanToInteger.cs",
+              "DocumentMoniker": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\Dicyionarys\\RomanToInteger.cs",
+              "RelativeDocumentMoniker": "Problems\\Dicyionarys\\RomanToInteger.cs",
+              "ToolTip": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\Dicyionarys\\RomanToInteger.cs",
+              "RelativeToolTip": "Problems\\Dicyionarys\\RomanToInteger.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:51:04.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IntToRoman.cs",
+              "DocumentMoniker": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\Dicyionarys\\IntToRoman.cs",
+              "RelativeDocumentMoniker": "Problems\\Dicyionarys\\IntToRoman.cs",
+              "ToolTip": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\Dicyionarys\\IntToRoman.cs",
+              "RelativeToolTip": "Problems\\Dicyionarys\\IntToRoman.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:51:01.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrimeNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\Programs\\PrimeNumbers.cs",
+              "RelativeDocumentMoniker": "Problems\\Programs\\PrimeNumbers.cs",
+              "ToolTip": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\Programs\\PrimeNumbers.cs",
+              "RelativeToolTip": "Problems\\Programs\\PrimeNumbers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T06:47:15.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CountSumofaDigitsinString.cs",
+              "DocumentMoniker": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\strings\\CountSumofaDigitsinString.cs",
+              "RelativeDocumentMoniker": "Problems\\strings\\CountSumofaDigitsinString.cs",
+              "ToolTip": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\strings\\CountSumofaDigitsinString.cs",
+              "RelativeToolTip": "Problems\\strings\\CountSumofaDigitsinString.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:18:05.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrintRomans.cs",
+              "DocumentMoniker": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\strings\\PrintRomans.cs",
+              "RelativeDocumentMoniker": "Problems\\strings\\PrintRomans.cs",
+              "ToolTip": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\strings\\PrintRomans.cs",
+              "RelativeToolTip": "Problems\\strings\\PrintRomans.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:38:54.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountNmberofOccurencesofawordinastring.cs",
+              "DocumentMoniker": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\strings\\CountNmberofOccurencesofawordinastring.cs",
+              "RelativeDocumentMoniker": "Problems\\strings\\CountNmberofOccurencesofawordinastring.cs",
+              "ToolTip": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\strings\\CountNmberofOccurencesofawordinastring.cs",
+              "RelativeToolTip": "Problems\\strings\\CountNmberofOccurencesofawordinastring.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T00:56:05.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Anagram.cs",
+              "DocumentMoniker": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\strings\\Anagram.cs",
+              "RelativeDocumentMoniker": "Problems\\strings\\Anagram.cs",
+              "ToolTip": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\strings\\Anagram.cs",
+              "RelativeToolTip": "Problems\\strings\\Anagram.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwCQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T05:44:35.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CountNumberofOccurancesofaCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\strings\\CountNumberofOccurancesofaCharacter.cs",
+              "RelativeDocumentMoniker": "Problems\\strings\\CountNumberofOccurancesofaCharacter.cs",
+              "ToolTip": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\strings\\CountNumberofOccurancesofaCharacter.cs",
+              "RelativeToolTip": "Problems\\strings\\CountNumberofOccurancesofaCharacter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T05:00:13.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CountOccuranceOfaCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\strings\\CountOccuranceOfaCharacter.cs",
+              "RelativeDocumentMoniker": "Problems\\strings\\CountOccuranceOfaCharacter.cs",
+              "ToolTip": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\strings\\CountOccuranceOfaCharacter.cs",
+              "RelativeToolTip": "Problems\\strings\\CountOccuranceOfaCharacter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T05:37:17.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RemoveSpecialCharactersfromString.cs",
+              "DocumentMoniker": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\strings\\RemoveSpecialCharactersfromString.cs",
+              "RelativeDocumentMoniker": "Problems\\strings\\RemoveSpecialCharactersfromString.cs",
+              "ToolTip": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\strings\\RemoveSpecialCharactersfromString.cs",
+              "RelativeToolTip": "Problems\\strings\\RemoveSpecialCharactersfromString.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:40:15.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\Program.cs",
+              "RelativeDocumentMoniker": "Problems\\Program.cs",
+              "ToolTip": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\Program.cs",
+              "RelativeToolTip": "Problems\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T04:58:54.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dict1.cs",
+              "DocumentMoniker": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\Dicyionarys\\Dict1.cs",
+              "RelativeDocumentMoniker": "Problems\\Dicyionarys\\Dict1.cs",
+              "ToolTip": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\Dicyionarys\\Dict1.cs",
+              "RelativeToolTip": "Problems\\Dicyionarys\\Dict1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T06:30:34.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SortArray.cs",
+              "DocumentMoniker": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\Arrays\\SortArray.cs",
+              "RelativeDocumentMoniker": "Problems\\Arrays\\SortArray.cs",
+              "ToolTip": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\Arrays\\SortArray.cs",
+              "RelativeToolTip": "Problems\\Arrays\\SortArray.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:11:03.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SeriesCharactercount.cs",
+              "DocumentMoniker": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\strings\\SeriesCharactercount.cs",
+              "RelativeDocumentMoniker": "Problems\\strings\\SeriesCharactercount.cs",
+              "ToolTip": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\strings\\SeriesCharactercount.cs",
+              "RelativeToolTip": "Problems\\strings\\SeriesCharactercount.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:38:27.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReverseArrayWithTwoPointer.cs",
+              "DocumentMoniker": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\Twopointer\\ReverseArrayWithTwoPointer.cs",
+              "RelativeDocumentMoniker": "Problems\\Twopointer\\ReverseArrayWithTwoPointer.cs",
+              "ToolTip": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\Twopointer\\ReverseArrayWithTwoPointer.cs",
+              "RelativeToolTip": "Problems\\Twopointer\\ReverseArrayWithTwoPointer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T04:03:54.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SlidingWindow.cs",
+              "DocumentMoniker": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\Sliding_TwoPointer_Technique\\SlidingWindow.cs",
+              "RelativeDocumentMoniker": "Problems\\Sliding_TwoPointer_Technique\\SlidingWindow.cs",
+              "ToolTip": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\Sliding_TwoPointer_Technique\\SlidingWindow.cs",
+              "RelativeToolTip": "Problems\\Sliding_TwoPointer_Technique\\SlidingWindow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:45:28.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReverseString.cs",
+              "DocumentMoniker": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\strings\\ReverseString.cs",
+              "RelativeDocumentMoniker": "Problems\\strings\\ReverseString.cs",
+              "ToolTip": "C:\\Users\\Sairam_Ganisetti\\source\\repos\\Problems\\Problems\\strings\\ReverseString.cs",
+              "RelativeToolTip": "Problems\\strings\\ReverseString.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:45:20.946Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
